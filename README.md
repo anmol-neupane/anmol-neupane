@@ -18,6 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmolneupane/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmol-neupane)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Anmol_Neupane/)
+[![CSSBattle](https://img.shields.io/badge/CSSBattle-Code%20Golf-yellow?style=flat-square&logo=css3&logoColor=white)](https://cssbattle.dev/player/anmolneupane)
 
 
 ---
